@@ -5,5 +5,5 @@ console.log(frase.indexOf("!"))
 console.log(fraseArray.indexOf("!"))
 
 let notas = [7.5, 8.6, 4.45];
-console.log(notas.indexOf(9))
+console.log(notas.indexOf(9)) // devuelve -1 si no encuentra el valor
 console.log(notas.indexOf(7.5))
